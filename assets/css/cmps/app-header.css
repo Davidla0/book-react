@@ -1,0 +1,7 @@
+.app-header {
+    padding: 15px;
+}
+
+.app-header nav>*:not(:last-child) {
+    padding-inline-end: 10px;
+}

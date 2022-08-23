@@ -1,0 +1,16 @@
+@import './basics/basic.css';
+@import './basics/helpers.css';
+
+@import './layout/layout.css';
+
+@import './setUp/fonts.css';
+
+@import './cmps/home.css';
+@import './cmps/books-list.css';
+@import './cmps/books-preview.css';
+@import './cmps/book-details.css';
+@import './cmps/long-txt.css';
+@import './cmps/app-header.css';
+@import './cmps/review-add.css';
+
+@import './views/about.css'

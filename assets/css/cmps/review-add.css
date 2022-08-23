@@ -1,0 +1,18 @@
+.review-add form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.review-add form input {
+    width: 50%;
+    text-align: center;
+}
+
+.review {
+    margin-top: 2%;
+    background-color: lightgray;
+    border-radius: 40px;
+    width: 100%;
+}
